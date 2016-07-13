@@ -1,0 +1,1 @@
+"# Traffic"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/naeef/Traffic.gitgit push -u origin master
