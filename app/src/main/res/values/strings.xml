@@ -4,4 +4,5 @@
     <string name="title">ป้ายจราจร ต้องรู้</string>
     <string name="test">ทดสอบ</string>
     <string name="textbutton">Text button</string>
+    <string name="title_activity_show_detail">ShowDetailActivity</string>
 </resources>
